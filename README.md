@@ -21,8 +21,8 @@
     - **set permissions** on tables, procedures, and views
 - **types of** SQL **commands**:
     - **Data Manipulation Language (DML)** statements - retrieve and manipulate data (SELECT, INSERT, UPDATE, DELETE)
-    - ** Data Definition Language (DDL)** statements - define and modify database structures (CREATE, ALTER, DROP)
-    - ** Data Control Language (DCL)** statements - control database access and to create user roles and permissions (GRANT, REVOKE)
+    - **Data Definition Language (DDL)** statements - define and modify database structures (CREATE, ALTER, DROP)
+    - **Data Control Language (DCL)** statements - control database access and to create user roles and permissions (GRANT, REVOKE)
 - SQL **syntax**:
     - **actions performed on database** are done with **SQL statements**
     - SQL **keywords are NOT case sensitive**
