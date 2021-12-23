@@ -3,7 +3,7 @@
 ### -----------------------------------------------------------------------------------------------------
 ### SQL:
 - stands for **Structured Query Language**
-- **standardized programming language for RDBMS** (Relational Database Management Systems)
+- **standardized programming language for Relational Database Management Systems** (RDBMS)
 - used **to**:
     - **access, communicate with and manage** databases
     - **store, manipulate and retrieve data** in databases
@@ -36,7 +36,7 @@
     - **ALTER** - modifies existing database object
 
 ### MySQL:
-- **free and open-source SQL Relational Database Management System**
+- **free and open-source SQL Relational Database Management System** (RDBMS)
 - **developed by** Swedish company **MySQL AB**
 - **supports** many **different platforms**: **Microsoft Windows**, the major **Linux distributions**, **UNIX**, and **Mac OS X**
 - has **free and paid versions**, depending on its **usage (non-commercial/commercial) and features** 
@@ -82,7 +82,7 @@
 9. Select (Read) Records
 10. Update Records
 11. Delete Records
-12. Format output into Pandas DataFrame
+12. Format SQL output into Pandas DataFrame
 13. Drop Database
 
 #### 4. Executive Summary
