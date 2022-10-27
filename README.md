@@ -1,5 +1,5 @@
 ### -----------------------------------------------------------------------------------------------------
-# Format SQL output into Pandas DataFrame using MySQL
+## Format SQL output into Pandas DataFrame using MySQL
 ### -----------------------------------------------------------------------------------------------------
 ### SQL:
 - stands for **Structured Query Language**
